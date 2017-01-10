@@ -1,0 +1,96 @@
+body {
+    font-family: "HelveticaNeue-Light", "HelveticaNeue";
+    font-weight: 300;
+    background-color: rgb(0, 179, 143)}
+
+
+
+.Title{
+    background-color:black;
+    padding:5px;}
+
+h1 {
+    margin-left:auto;
+    margin-right:auto;
+    width: 10em;
+    color: rgb(255,255,255);
+    font-size: 200%;
+    text-shadow: 2px 2px 3px #666666;
+    padding-left:4.5em;
+}
+
+.Rightfloat{
+    background-color: rgba(0,0,0,.4);
+    height:2100px;
+    width:150px;
+    float:right;
+    padding-top:50px;
+    line-height:60px;
+}
+
+.Navigation-bar{
+    line-height:50px;
+    background-color: rgba(0,0,0,.4);
+    height:2100px;
+    width:150px;
+    float:left;
+    padding-top:150px;
+}
+
+.Nav-btn{
+    padding:10px;
+    border-radius:10px;
+    margin:auto;
+    display:block;
+    background: none;
+    padding-left:1em;
+    padding-right:1em;
+    -webkit-transition: all 0.30s ease-in-out;
+    -moz-transition: all 0.30s ease-in-out;
+    -ms-transition: all 0.30s ease-in-out;
+    -o-transition: all 0.30s ease-in-out;
+    border: 1px solid rgba(255, 255, 255, .25);
+    background: none;
+    color: white;
+    outline: none;
+    background-color: rgba(255, 255, 255, .25);
+}
+
+.Nav-btn:hover {
+border-radius: 25px;
+box-shadow: 0 0 5px rgba(0, 0, 0, 5);
+border: 1px solid rgba(0, 0, 0, 5);
+      }
+
+.Nav-btn:focus {
+border-radius: 25px;
+box-shadow: 0 0 5px rgba(81, 203, 238, 1);
+border: 1px solid rgba(81, 203, 238, 1);
+            }
+
+.Bodypost{
+    margin-left:auto;
+    margin-right:auto;
+    float: left;
+    width:50em;
+    padding-left:15px;
+    padding-top:50px;
+}
+
+p{
+    text-indent:50px;
+}
+
+.Excerpt{
+    text-indent:0px;
+    font-style:italic;
+    margin-left:auto;
+    margin-right:auto;
+    width:40em;
+}
+
+blockquote{
+    border-left: medium solid black;
+    float:left;
+    padding-left:5px;
+}
