@@ -3,6 +3,12 @@ body {
     font-weight: 300;
     background-color: rgb(0, 179, 143)}
 
+footer {
+    font-weight:50;
+    font-size:50%;
+    position:absolute;
+    bottom:0;
+    height:60px;}
 
 
 .Title{
