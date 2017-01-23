@@ -3,7 +3,7 @@ body {
     font-weight: 300;
     background-color: rgb(0, 179, 143)}
 
-footer {
+#myFooter {
     font-weight:50;
     font-size:50%;
     position:absolute;
